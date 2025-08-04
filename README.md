@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm nagendra pasala</h1>
+<h1 align="center">Hi 👋, I'm ajay bobati</h1>
 <h3 align="center">A Passionate Full Stack Web Developer with skills in the MERN stack, I have learned Full Stack Web Development in Masai school. Skilled in problem- solving and execution of software tasks from start to finish. I look forward to joining a company where I can contribute to individual and company growth..</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagendrapasala" alt="nagendrapasala" /></a> </p>
