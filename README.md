@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaybobati&" alt="ajaybobati" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ajaybobti?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ajaybbobti?ext=heatmap)
