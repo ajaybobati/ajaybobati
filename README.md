@@ -1,4 +1,4 @@
-![logo](https://github.com/ajaybobati/ajaybobati/blob/main/pexels-markusspiske-1089438.jpg)
+
 <h1 align="center">Hi 👋, I'm Ajay Bobati</h1>
 <h3 align="center">A Passionate Full Stack Web Developer , I have learned Full Stack Web Development in ItVedant. Skilled in problem- solving and execution of software tasks from start to finish. I look forward to joining a company where I can contribute to individual and company growth..</h3>
 
