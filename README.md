@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaybobati&show_icons=true&locale=en" alt="ajaybobati" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaybobati&" alt="ajaybobati" /></p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/ajaybobti?ext=heatmap)
