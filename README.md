@@ -8,9 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaybobati&label=Profile%20views&color=0e75b6&style=flat" alt="ajaybobati" /> </p>
 
-- 🔭 I’m currently working on **Smart contact manager**
-
-- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **ajaybobati9009@gmail.com**
 
